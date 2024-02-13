@@ -1,0 +1,5 @@
+.idea/
+.gradle/
+build/
+src/main/portfolio/build
+src/main/portfolio/node_modules
